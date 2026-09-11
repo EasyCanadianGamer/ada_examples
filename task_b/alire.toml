@@ -1,0 +1,11 @@
+name = "task_b"
+description = "TaskB of ada"
+version = "0.1.0-dev"
+
+authors = ["Eyad"]
+maintainers = ["Eyad <example@example.com>"]
+licenses = "MIT OR Apache-2.0 WITH LLVM-exception"
+website = ""
+tags = []
+
+executables = ["task_b", "ravenscar_demo"]
